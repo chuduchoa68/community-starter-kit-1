@@ -1,5 +1,3 @@
-CONTRIBUTOR CODE
-[INSERT EMAIL ADDRESS]
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
